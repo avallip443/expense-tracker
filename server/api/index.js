@@ -56,5 +56,3 @@ app.get('/api/transaction', async (req, res) => {
 // static port
 app.listen(4040);
 console.log(`App listening on port http://localhost:${port}${url}`);
-
-// pwd: vVgc9gnHAFk7I8ly
